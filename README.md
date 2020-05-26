@@ -1,2 +1,2 @@
 # OH2020
-For OmegaHacks
+Go into OmegaHacks folder. The two source code files are TeacherInterface.java, and StudentInterface.java Those are the classes that need to be compiled.
