@@ -1,2 +1,2 @@
-# OH2020
-Go into OmegaHacks folder. The two source code files are TeacherInterface.java, and StudentInterface.java Those are the classes that need to be compiled.
+# OmegaHacks2020
+Go into OmegaHacks folder, then go into the 'src' folder. The two source code files are located in 'src' and they are called TeacherInterface.java, and StudentInterface.java Those are the classes that need to be compiled. All other files within 'src' are images, and needed to be downloaded and placed within the same directory as TeacherInterface and StudentInterface.java, so the two files can compile and run. The two classes will not run if the images are not downloaded and placed in the same directory that TeacherInterface and StudentInterface are in. 
