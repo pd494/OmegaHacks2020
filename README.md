@@ -1,1 +1,3 @@
+<h1>README</h1>
+
 As a result of the recent pandemic, schools throughout the world have been shut down and many students are now having to switch to education on online platforms. During this effort, however, many teachers and schools are unable to assign tests to their students, due to the possibilities of academic dishonesty and technological trouble.  With the help of LockTest, teachers will be able to successfully assign tests to their students without the worry of compromising the integrity of the examination. This will help to recreate the learning experience and milestones that students need to progress within their online classes. 
